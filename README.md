@@ -2,7 +2,7 @@
 
 Esse projeto foi realizado para exercitar o que foi aprendido no Bloco 20 do Módulo de Back End do curso da [Trybe](https://www.betrybe.com/), no qual foi sobre `Introdução à SQL`.
 
-Nesse projeto foram desenvolidas várias `queries` para realizar buscas no banco de dados `northwind`, de acordo com os requisitos abaixo.
+Nesse projeto foram desenvolvidas várias `queries` para realizar buscas no banco de dados `northwind`, de acordo com os requisitos abaixo.
 
   ---
 
@@ -214,6 +214,6 @@ $ git clone git@github.com:Lucas-Almeida-SD/Trybe-Projeto_22-SQL-All_For_One.git
 $ cd Trybe-Projeto_22-SQL-All_For_One
 ```
 
-Abra o `MySQL Workbench` e restaure o banco de dados `northwind` que está está no arquivo `northwind.sql`.
+Abra o `MySQL Workbench` e restaure o banco de dados `northwind` que está no arquivo `northwind.sql`.
 
 Utilize as queries que estão nos arquivos `desafio{n}.sql` para realizar as buscas.
